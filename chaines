@@ -1,6 +1,6 @@
 #EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Radio-Canada.png", Radio-Canada
 
-https://dai.google.com/linear/hls/event/ixE_JVvSSCWyxU7eXJoV-A/master.m3u8
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnea=st=1615341591~exp=1615341891~acl=*~id=44f3f7b1-31f3-40a3-a551-00f82d7f3660~hmac=889223b1825b3e1ee6b8fd37d90a237cf1f758bf2e060a24799f13f2dcdc7666&originpath=/linear/hls/pa/event/ixE_JVvSSCWyxU7eXJoV-A/stream/a84598bb-539f-45bc-975c-b590bf32bb03:MRN2/master.m3u8
 
 #EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVA.png", TVA
 
