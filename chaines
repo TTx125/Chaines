@@ -1,40 +1,40 @@
-#EXTINF:-1,  logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Radio-Canada.png", Radio-Canada
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Radio-Canada.png", Radio-Canada
 
 https://dai.google.com/linear/hls/event/ixE_JVvSSCWyxU7eXJoV-A/master.m3u8?dai-sr=%3a2750000&amp;sz=852x480&amp;ciu_szs=300x250%2C300x600%2C728x90&amp;iu=6642%2Fraca.rc.ca%2Ftelevision%2Fchaine-principale%2Fen-direct&amp;description_url=https%253A%252F%252Fici.radio-canada.ca%252Ftele&amp;cust_params=playerWidth%3D938%26duree%3D000
 
-#EXTINF:-1, logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVA.png", TVA
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVA.png", TVA
 
 https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
 
-#EXTINF:-1, logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Tele-Quebec.png", Télé-Québec
+#EXTINF:-1, group-title="Chaines télé"logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Tele-Quebec.png", Télé-Québec
 
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1,  logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/noovo.png",  Noovo
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/noovo.png",  Noovo
 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1, logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Tele-Mag.png", Télé-Mag
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Tele-Mag.png", Télé-Mag
 
 https://youtu.be/ZGa6GpiHE7E
 
-#EXTINF:-1,  logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/cpac.png", cpac
+#EXTINF:-1,  group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/cpac.png", cpac
 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1607262207060/Layer3_master.m3u8
 
-#EXTINF:-1, logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/savoir.png", Savoir.TV
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/savoir.png", Savoir.TV
 
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1,  logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVC9.png", TVC9
+#EXTINF:-1,  group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVC9.png", TVC9
 
 https://youtu.be/Gc9yO0t_pDo
 
-#EXTINF:-1,  logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TV_Franco.png", TV Fancophonie
+#EXTINF:-1,  group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TV_Franco.png", TV Fancophonie
 
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_w71711452_b1000000_t64NDgwcA==.m3u8
 
-#EXTINF:-1, logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/ICI_Tele.png", ICI Télévision
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/ICI_Tele.png", ICI Télévision
 
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/a4eb2eeaf629ae40a40316669d7eb431/1.m3u8
 
