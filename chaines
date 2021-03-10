@@ -1,6 +1,6 @@
 #EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Radio-Canada.png", Radio-Canada
 
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+https://dai.google.com/linear/hls/event/ixE_JVvSSCWyxU7eXJoV-A/master.m3u8?dai-sr=%3a2750000&sz=852x480&ciu_szs=300x250%2C300x600%2C728x90&iu=6642%2Fraca.rc.ca%2Ftelevision%2Fchaine-principale%2Fen-direct&description_url=https%253A%252F%252Fici.radio-canada.ca%252Ftele&cust_params=playerWidth%3D938%26duree%3D000
 
 #EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVA.png", TVA
 
