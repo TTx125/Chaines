@@ -38,30 +38,30 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_w71711452_b
 
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/a4eb2eeaf629ae40a40316669d7eb431/1.m3u8
 
-#EXTINF:-1,  logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/FAILARMY.png",  Fail Army
+#EXTINF:-1, group-title="Radio" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/FAILARMY.png",  Fail Army
 
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="radio" radio="true",  Radio-Canada
+#EXTINF:-1 group-title="Radio" radio="true",  Radio-Canada
 
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/adaptive_192/chunklist_ao.m3u8
 
-#EXTINF:-1 group-title="radio" radio="true",  Energie 80-90
+#EXTINF:-1 group-title="Radio" radio="true",  Energie 80-90
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/ST01_ADP.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.CA&init_id=8169&modTime=1615250568184&pname=OrganicWeb&profileid=1508179633&territory=CA&uid=6da2c18d-a80b-4b26-b978-6b74a954a659&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1615250568&terminalid=163&companionAds=true&playedFrom=60&callLetters=ST01D-FL&devicename=web-desktop&stationid=7549&dist=iheart&aw_0_1st.ccaud=&iheart-encr=YXdfMF8xc3QuZ2VuZGVyPQ%253D%253D
 
-#EXTINF:-1 group-title="radio" radio="true",  Energie 98.7
+#EXTINF:-1 group-title="Radio" radio="true",  Energie 98.7
 
 https://18223.live.streamtheworld.com/CIKIFMAAC.aac?dist=bellmedia_iheartradio.ca_web&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%2C300x600%2C728x90%2C970x250&sbmid=48a644ec-a0b0-4abc-9269-c29c117260f5
 
-#EXTINF:-1 group-title="radio" radio="true",  Capitale Rock
+#EXTINF:-1 group-title="Radio" radio="true",  Capitale Rock
 
 https://cogecomedia.leanstream.co/cogecomedia/CJGOFM.stream/playlist.m3u8?type=.ts&amp;args=web_01
 
-#EXTINF:-1 group-title="radio" radio="true",  Punk Rock Radio
+#EXTINF:-1 group-title="Radio" radio="true",  Punk Rock Radio
 
 https://stream.radio.co/s904013bb1/listen
 
-#EXTINF:-1 group-title="radio" radio="true",  La Grosse Radio - Métal
+#EXTINF:-1 group-title="Radio" radio="true",  La Grosse Radio - Métal
 
 https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
