@@ -38,7 +38,7 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_w71711452_b
 
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/a4eb2eeaf629ae40a40316669d7eb431/1.m3u8
 
-#EXTINF:-1, logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/FAILARMY.png",  Fail Army
+#EXTINF:-1, group-title="Chaines télé" logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/FAILARMY.png",  Fail Army
 
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
 
