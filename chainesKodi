@@ -12,7 +12,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 
 #EXTINF:-1, group-title="Chaines télé" tvg-logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Tele-Mag.png", Télé-Mag
 
-plugin://plugin.video.youtube/play/?video_id=pWhdKBGs4Kc
+https://youtu.be/pWhdKBGs4Kc
 
 #EXTINF:-1,  group-title="Chaines télé" tvg-logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/cpac.png", cpac
 
@@ -24,7 +24,7 @@ https://hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1,  group-title="Chaines télé" tvg-logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVC9.png", TVC9
 
-https://www.youtube.com/watch?v=1CFN6BdNRBk&ab_channel=CablevisionTVC9
+plugin://plugin.video.youtube/play/?video_id=1CFN6BdNRBk
 
 #EXTINF:-1,  group-title="Chaines télé" tvg-logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TV_Franco.png", TV Fancophonie
 
