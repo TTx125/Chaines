@@ -4,7 +4,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 
 #EXTINF:-1, group-title="Chaines télé" tvg-logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/TVA.png", TVA
 
-https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/984fab47-d394-4ea5-bfad-58d10bb23353:MRN2/master.m3u8
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1624845600~exp=1624849200~acl=/*~hmac=adc3a98ff0eb0347cdcca3dd1d682dba479b643730c62a23f0a97dd5142069b7
 
 #EXTINF:-1, group-title="Chaines télé" tvg-logo="https://raw.githubusercontent.com/TTx125/Chaines/main/Logo/Tele-Quebec.png", Télé-Québec
 
